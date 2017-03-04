@@ -1,0 +1,1 @@
+$wnd.ru_insros_vaadintest_AppWidgetSet.runAsyncCallback2('Q8(1770,1,Ujd);_.vc=function Q_b(){eRb((!ZQb&&(ZQb=new jRb),ZQb),this.b.e)};xed(Vh)(2);\n//# sourceURL=ru.insros.vaadintest.AppWidgetSet-2.js\n')
